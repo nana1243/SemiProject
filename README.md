@@ -12,13 +12,13 @@
 
 ### 2. 화면구성
 
-![page](C:\Users\student\Pictures\git_markdown\page.PNG)
+![page](C:\Users\student\SemiProject\git_markdown\page.PNG)
 
 
 
 ### 3. 시스템 구성
 
-![system](C:\Users\student\Pictures\git_markdown\system.PNG)
+![system](C:\Users\student\SemiProject\git_markdown\system.PNG)
 
 
 
@@ -26,7 +26,7 @@
 
 ### 4.  DB ERD
 
-![DBERD](C:\Users\student\Pictures\git_markdown\DBERD.png)
+![DBERD](C:\Users\student\SemiProject\git_markdown\DBERD.png)
 
 
 
@@ -55,13 +55,13 @@
 >
 >
 >
->![class](C:\Users\student\Pictures\git_markdown\frame.PNG)
+>![class](C:\Users\student\SemiProject\git_markdown\frame.PNG)
 
 >
 >
 >2. web  구조
 >
->![](C:\Users\student\Pictures\git_markdown\web구성.PNG)
+>![](C:\Users\student\SemiProject\git_markdown\web구성.PNG)
 
 >
 >
@@ -69,15 +69,15 @@
 >
 >- 주문 내역 확인
 >
->  <img src="C:\Users\student\Pictures\git_markdown\주문내역.PNG" style="zoom: 50%;" />
+> <img src="C:\Users\student\SemiProject\git_markdown\주문내역.PNG" style="zoom: 67%;" />
 >
 >- main 화면에서 상품 뿌리기 및 연결
 >
-><img src="C:\Users\student\Pictures\git_markdown\main_page.PNG" alt="main page" style="zoom: 33%;" />
+><img src="C:\Users\student\SemiProject\git_markdown\main_page.PNG" style="zoom:75%;" />
 
 - mypage- >qna 연결
 
-  ![](C:\Users\student\Pictures\git_markdown\4_mypageqna.PNG)
+  ![](C:\Users\student\SemiProject\git_markdown\4_mypageqna.PNG)
 
   
 
@@ -85,5 +85,5 @@
 
 
 
-## 
+
 
