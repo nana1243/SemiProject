@@ -66,7 +66,7 @@
 >
 >
 >3. 맡은 역할
->
+>- 데이터 정제 및 데이터베이스모델링(DB폴더에서 확인 가능) -> 전적으로 책임
 >- 주문 내역 확인
 >
 > ![주문내역](https://user-images.githubusercontent.com/52269210/71508445-20ae7e00-28cb-11ea-8cfd-ed50aac985c1.PNG)
